@@ -2,7 +2,7 @@
 
 Casino test Flutter application.
 
-This is app to explore all characters in Rick and Morty movie.
+This is app to explore all characters from Rick and Morty movie.
 
 API docs: https://rickandmortyapi.com/documentation
 

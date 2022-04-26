@@ -1,4 +1,4 @@
-#Test Task: Online Casino Flutter application
+Test Task: Online Casino Flutter application
 
 Do you remember Rick and Morty cartoon?
 Your goal is to create the app with all the characters from this cartoon, and make it look juicy.

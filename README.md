@@ -17,3 +17,5 @@ Optional:
 Add infinite scrolling pagination.
 
 PS: You need to use same libraries, but you can also add more (reasonable amount).
+
+NOTE: I move my test_assignment solution repository to [rick_morty_test_assignment](https://github.com/kwado-tech/rick_morty_test_assignment)
